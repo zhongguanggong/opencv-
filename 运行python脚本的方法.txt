@@ -1,0 +1,2 @@
+1.cmd进入该地址
+2.键入python add_label.py 

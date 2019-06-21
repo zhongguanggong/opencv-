@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<opencv_fisherfaces>
+  <threshold>1.7976931348623157e+308</threshold>
+  <num_components>0</num_components>
+  <mean type_id="opencv-matrix">
+    <rows>0</rows>
+    <cols>0</cols>
+    <dt>u</dt>
+    <data></data></mean>
+  <eigenvalues type_id="opencv-matrix">
+    <rows>0</rows>
+    <cols>0</cols>
+    <dt>u</dt>
+    <data></data></eigenvalues>
+  <eigenvectors type_id="opencv-matrix">
+    <rows>0</rows>
+    <cols>0</cols>
+    <dt>u</dt>
+    <data></data></eigenvectors>
+  <projections>
+    </projections>
+  <labels type_id="opencv-matrix">
+    <rows>0</rows>
+    <cols>0</cols>
+    <dt>u</dt>
+    <data></data></labels>
+  <labelsInfo>
+    </labelsInfo></opencv_fisherfaces>
+</opencv_storage>
